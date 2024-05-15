@@ -8,10 +8,10 @@
 
 使用了第三方库:
 
-python2使用pip:
+python2使用pip: \n
 pip install requests  pycryptodome
 
-python3使用pip3:
+python3使用pip3: \n
 pip3 install requests  pycryptodome
 
 
