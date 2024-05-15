@@ -6,9 +6,13 @@
 
 
 
-使用了第三方库
+使用了第三方库:
 
-pip install 
+python2使用pip:
+pip install requests  pycryptodome
+
+python3使用pip3:
+pip3 install requests  pycryptodome
 
 
 
