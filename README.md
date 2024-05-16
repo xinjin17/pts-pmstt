@@ -16,6 +16,7 @@ python3使用pip3:
 
 pip3 install requests  pycryptodome
 
+里面还使用了ffmpeg，所以要去ffmpeg官网下载，然后放在mian.py同目录。
 
 
 启动函数为main.py
